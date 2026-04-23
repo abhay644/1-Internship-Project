@@ -1,6 +1,6 @@
  Prodesk IT Landing Page
 
-Live URL: https://your-vercel-link.vercel.app
+Live URL: https://1-internship-project.vercel.app
 
 Features:
 - Responsive Navbar
