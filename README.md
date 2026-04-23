@@ -7,7 +7,5 @@ Features:
 - Dark Mode Toggle
 - Service Cards
 - Sticky Navbar
-- Screenshot
-![Screenshot 1](Screenshot 2026-04-23 153814.png)
-![Screenshot 2](Screenshot 2026-04-23 153846.png)
-![Screenshot 3](Screenshot 2026-04-23 153904.png)
+- Screenshothttps:
+  ![image alt](//github.com/abhay644/1-Internship-Project/blob/88d2ec1eb10be756c9df6c8068c95119dd39d502/Screenshot%202026-04-23%20153846.png)
